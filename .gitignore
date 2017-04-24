@@ -1,0 +1,7 @@
+# ignore all csv, zip, rdb files
+*.csv
+*.zip
+*.rdb
+
+.DS_Store
+node_modules/
